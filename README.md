@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![MasterHead](https://openseauserdata.com/files/54c03e32134dac515097ca7151a26cf1.gif)](https://github.com/emre-02)
-<h1 align="center">Hi 👋, I'm Yunus Emre Öztürk</h1>
+<h1 align="center">Hi 👋, I'm  Emre Öztürk</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
