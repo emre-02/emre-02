@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=emre-02&show_icons=true&locale=en" alt ="emre-02" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emre-02&show_icons=true&locale=en&layout=compact" alt="emre-02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emre-02&show_icons=true&locale=en" alt="emre-02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emre-02&" alt="emre-02" /></p>
+
+
 
 
 
