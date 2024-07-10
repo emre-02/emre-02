@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello👋 , I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am developing my skills in Python and working on various projects to improve myself.</h1>
+<h2 align="center">Hello👋 , I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am developing my skills in Python and working on various projects to improve myself.</h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
