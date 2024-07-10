@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm  Emre Öztürk</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hello👋 , I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am developing my skills in Python and working on various projects to improve myself.</h1>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
 
