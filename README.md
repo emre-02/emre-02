@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello👋 , I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am developing my skills in Python and working on various projects to improve myself.</h2>
+<h2 align="center">Hello👋 I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am honing my skills in Data Science and Machine Learning and working on various projects to improve myself.</h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emre-02&label=Profile%20views&color=0e75b6&style=flat" alt="emre-02" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 
 
