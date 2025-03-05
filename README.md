@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hello👋 I am Yunus Emre Öztürk. I graduated with a degree in computer programming. I am honing my skills in Data Science and Machine Learning and working on various projects to improve myself.</h2>
+<h2 align="center">Hello👋 I am Yunus Emre Öztürk. I have a strong knowledge base in Python programming, as well as in data analysis, machine learning, and artificial intelligence. I have also developed extensive technical expertise by working with various programming languages and technologies. I aim to leverage these skills to create innovative projects and contribute to technological advancements.</h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
